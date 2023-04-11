@@ -8,7 +8,7 @@ module.exports = function (){
   });
 
   router.get("/nosotros", (req, res)=>{
-    res.send("nosotros")
+    res.send("Somos nosotros, en qué te podemos servir?")
   });
 
 
